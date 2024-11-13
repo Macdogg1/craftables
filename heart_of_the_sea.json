@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "LNL",
+      "PSP",
+      "LPL"
+    ],
+    "key": {
+      "L": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "N": {
+        "item": "minecraft:nautilus_shell"
+      },
+      "P": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "S": {
+        "item": "minecraft:turtle_scute"
+      }
+    },
+    "result": {
+      "id": "minecraft:heart_of_the_sea",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  

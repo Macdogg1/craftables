@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "GEG",
+        "GBG",
+        " B "
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "B": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    "result": {
+      "id": "minecraft:totem_of_undying",
+      "count": 1
+    }
+  }
+  
