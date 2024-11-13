@@ -1,0 +1,4 @@
+tellraw @s[score={recipes=1..}] ["",{"text":"\n"},{"text":"Craftables Recipes","underlined":true,"color":"green"},{"text":"\n"},{"text":"By ","color":"dark_aqua"},{"text":"Macdogg","bold":true,"color":"dark_aqua"},{"text":"!","color":"dark_aqua"},{"text":"\n\n"},{"text":"    ","color":"blue"},{"text":"Discord","color":"blue","clickEvent":{"action":"copy_to_clipboard","value":"Macdogg"},"hoverEvent":{"action":"show_text","contents":"Click to copy my Discord username."}},{"text":"\n\n     "},{"text":"Imgur","color":"yellow","clickEvent":{"action":"open_url","value":"https://imgur.com/gallery/craftables-datapack-v1-4POFkNq"},"hoverEvent":{"action":"show_text","contents":"Click to open a list of the images of the recipes."}}]
+
+scoreboard players reset @s Recipes
+scoreboard players enable @s Recipes
